@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/hw5-react/static/css/main.218c8a87.css",
+    "main.js": "/hw5-react/static/js/main.6826360f.js",
+    "static/js/613.250f118c.chunk.js": "/hw5-react/static/js/613.250f118c.chunk.js",
+    "static/js/424.f510e099.chunk.js": "/hw5-react/static/js/424.f510e099.chunk.js",
+    "static/js/362.38a22334.chunk.js": "/hw5-react/static/js/362.38a22334.chunk.js",
+    "static/js/214.af0e04b4.chunk.js": "/hw5-react/static/js/214.af0e04b4.chunk.js",
+    "static/js/593.3c3e740c.chunk.js": "/hw5-react/static/js/593.3c3e740c.chunk.js",
+    "static/js/313.58ccf66e.chunk.js": "/hw5-react/static/js/313.58ccf66e.chunk.js",
+    "static/js/58.679b9179.chunk.js": "/hw5-react/static/js/58.679b9179.chunk.js",
+    "static/js/596.2cb16312.chunk.js": "/hw5-react/static/js/596.2cb16312.chunk.js",
+    "static/css/544.d4139ab1.chunk.css": "/hw5-react/static/css/544.d4139ab1.chunk.css",
+    "static/js/523.8fc3cd27.chunk.js": "/hw5-react/static/js/523.8fc3cd27.chunk.js",
+    "static/media/default_picture.jpg": "/hw5-react/static/media/default_picture.1be6988bda85073dc6a2.jpg",
+    "index.html": "/hw5-react/index.html",
+    "main.218c8a87.css.map": "/hw5-react/static/css/main.218c8a87.css.map",
+    "main.6826360f.js.map": "/hw5-react/static/js/main.6826360f.js.map",
+    "613.250f118c.chunk.js.map": "/hw5-react/static/js/613.250f118c.chunk.js.map",
+    "424.f510e099.chunk.js.map": "/hw5-react/static/js/424.f510e099.chunk.js.map",
+    "362.38a22334.chunk.js.map": "/hw5-react/static/js/362.38a22334.chunk.js.map",
+    "214.af0e04b4.chunk.js.map": "/hw5-react/static/js/214.af0e04b4.chunk.js.map",
+    "593.3c3e740c.chunk.js.map": "/hw5-react/static/js/593.3c3e740c.chunk.js.map",
+    "313.58ccf66e.chunk.js.map": "/hw5-react/static/js/313.58ccf66e.chunk.js.map",
+    "58.679b9179.chunk.js.map": "/hw5-react/static/js/58.679b9179.chunk.js.map",
+    "596.2cb16312.chunk.js.map": "/hw5-react/static/js/596.2cb16312.chunk.js.map",
+    "544.d4139ab1.chunk.css.map": "/hw5-react/static/css/544.d4139ab1.chunk.css.map",
+    "523.8fc3cd27.chunk.js.map": "/hw5-react/static/js/523.8fc3cd27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.218c8a87.css",
+    "static/js/main.6826360f.js"
+  ]
+}
